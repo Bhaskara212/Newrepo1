@@ -1,0 +1,8 @@
+hello world
+this is bhaskar
+<<<<<<< HEAD
+welcome to gitlocalrepo
+
+=======
+welcome to git remote Repo
+>>>>>>> 8340e3dc23ec51cde273489adbcab617a10469ec
